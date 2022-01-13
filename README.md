@@ -3,6 +3,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/ARTICHS)](https://github.com/KOSASIH/ARTICHS/stargazers)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/ARTICHS)](https://github.com/KOSASIH/ARTICHS/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FARTICHS)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/64b4ce36-42e3-4ee9-98af-0eed47a1a080/deploy-status)](https://app.netlify.com/sites/artichs/deploys)
 # ARTICHS
 Collect, sell, trade and play with the most exclusive NFT’s
