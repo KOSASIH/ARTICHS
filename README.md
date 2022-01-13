@@ -7,7 +7,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64b4ce36-42e3-4ee9-98af-0eed47a1a080/deploy-status)](https://app.netlify.com/sites/artichs/deploys)
 [![CircleCI](https://circleci.com/gh/KOSASIH/ARTICHS/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/ARTICHS/tree/main)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/ARTICHS.svg/?label=active+issues&show_trend=true&token=9oKCi1yk_NOdi3Jo7xZkh7JO)](https://deepsource.io/gh/KOSASIH/ARTICHS/?ref=repository-badge)
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 
 
 # ARTICHS
