@@ -12,3 +12,11 @@
 
 # ARTICHS
 Collect, sell, trade and play with the most exclusive NFT’s
+
+ARTICHS was created to help developers, artists, and people around the world develop their work and creativity and get a source of income so they can create a better life, today and in the future.
+
+# Register here :
+https://artichs.54nft.io/
+
+# Login here :
+https://artichs.54nft.io/login
