@@ -8,7 +8,7 @@
 [![CircleCI](https://circleci.com/gh/KOSASIH/ARTICHS/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/ARTICHS/tree/main)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/ARTICHS.svg/?label=active+issues&show_trend=true&token=9oKCi1yk_NOdi3Jo7xZkh7JO)](https://deepsource.io/gh/KOSASIH/ARTICHS/?ref=repository-badge)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOSASIH&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # ARTICHS
 Collect, sell, trade and play with the most exclusive NFT’s
